@@ -1,0 +1,7 @@
+{
+  "name": "mousetrap-bind-element",
+  "version": "1.0.0",
+  "dependencies": {
+    "mousetrap": "~1.4.5"
+  }
+}
