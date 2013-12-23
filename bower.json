@@ -13,10 +13,9 @@
     "events",
     "elements"
   ],
-  "gitHead": "6e6a606255c9f50cf2ca220c8702f6344c754839",
+  "gitHead": "6a73315fce091bb385b3115bd4835569acfbdfa7",
   "repository": {
     "type": "git",
     "url": "git://github.com/nickburns2006/mousetrap-bind-element"
-  },
-
+  }
 }
